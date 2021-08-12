@@ -1,0 +1,25 @@
+{
+  "name": "basic-cli-module",
+  "version": "1.0.1",
+  "description": "Small CLI app which show you the data of your computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiory602/CICCC-WMAD.git#master"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Shiori Suzuki suzushioufo@gmail.com (https://github.com/shiory602)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiory602/CICCC-WMAD/issues"
+  },
+  "homepage": "https://github.com/shiory602/CICCC-WMAD/tree/master#readme",
+  "dependencies": {
+    "check-disk-space": "^3.0.1"
+  }
+}
